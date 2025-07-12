@@ -7,18 +7,19 @@ A curated collection of beginner-friendly front-end web applications built using
 
 ## 📦 Projects Included
 
-### 🔢 1. [Basic Calculator App](./calculator-app)
+### 🌡️ 1. [Temperature Conversion App](./temperature-converter)
 
-A simple and responsive calculator that performs arithmetic operations.
+Convert between Celsius and Fahrenheit with a styled, responsive interface.
 
-<img width="230" height="320" alt="Calculator Screenshot" src="https://github.com/user-attachments/assets/f94407ac-b382-4fba-900f-93e90ae893a2" />
+<img width="210" height="210" alt="Temperature Converter UI" src="https://github.com/user-attachments/assets/cb13d0a8-06fe-44b2-b889-b823fbbe3a9a" />
 
 **Features:**
-- Addition, Subtraction, Multiplication, Division
-- Clear and Backspace functionalities
-- Clean responsive UI
+- Converts Celsius ⬌ Fahrenheit
+- Click-to-submit conversion
+- Easy-to-use design
 
-📁 Folder: `calculator-app/`
+📁 Folder: `temperature-converter/`
+
 
 ---
 
@@ -36,19 +37,18 @@ An interactive app to enter marks, calculate total, average, and assign grade.
 📁 Folder: `grade-checker/`
 
 ---
+### 🔢 3. [Basic Calculator App](./calculator-app)
 
-### 🌡️ 3. [Temperature Conversion App](./temperature-converter)
+A simple and responsive calculator that performs arithmetic operations.
 
-Convert between Celsius and Fahrenheit with a styled, responsive interface.
-
-<img width="210" height="210" alt="Temperature Converter UI" src="https://github.com/user-attachments/assets/cb13d0a8-06fe-44b2-b889-b823fbbe3a9a" />
+<img width="230" height="320" alt="Calculator Screenshot" src="https://github.com/user-attachments/assets/f94407ac-b382-4fba-900f-93e90ae893a2" />
 
 **Features:**
-- Converts Celsius ⬌ Fahrenheit
-- Click-to-submit conversion
-- Easy-to-use design
+- Addition, Subtraction, Multiplication, Division
+- Clear and Backspace functionalities
+- Clean responsive UI
 
-📁 Folder: `temperature-converter/`
+📁 Folder: `calculator-app/`
 
 ---
 
